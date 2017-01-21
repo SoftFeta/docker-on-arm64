@@ -23,4 +23,4 @@ sudo ./docker_inst.sh
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License, look at LICENSE for more details
